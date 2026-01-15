@@ -20,10 +20,10 @@ The construction of various nanodrug delivery systems and their applications in 
 - E-mail：gengym813@163.com
 
 ## Publication
-1.Yiming Geng*, Shengyun Huang*, Li Ma* et al. [Propranolol-induced autophagic dysfunction combined with a targeted metal-organic framework as a novel strategy for improving antitumor therapeutic efficacy](https://www.sciencedirect.com/science/article/pii/S2352940723001567), Applied Materials Today. 
-2.Yiming Geng*, Huwei Zou*, Haiwei Wu et al. [Recent advances in nanomaterial-driven strategies for diagnosis and therapy of vascular anomalies](https://link.springer.com/article/10.1186/s12951-024-02370-2), Review , Journal of Nanobiotechnology. 
-Yiming Geng, Miao Yu, Haiwei Wu et al. [3D-printed personalized digital guide plate for greater palatine block in trigeminal neuralgia](https://www.sciencedirect.com/science/article/pii/S0266435624000160), British Journal of Oral & Maxillofacial Surgery.
-Yiming Geng*, Cancan Meng*, Hanzhi Zhang* et al. [A novel therapeutic approach to hemangiomas: Combining photothermal therapy and ferroptosis in a microneedle delivery system](https://www.sciencedirect.com/science/article/pii/S2590006425003072)，Materials Today Bio.
+1. Yiming Geng*, Shengyun Huang*, Li Ma* et al. [Propranolol-induced autophagic dysfunction combined with a targeted metal-organic framework as a novel strategy for improving antitumor therapeutic efficacy](https://www.sciencedirect.com/science/article/pii/S2352940723001567), Applied Materials Today.  
+2. Yiming Geng*, Huwei Zou*, Haiwei Wu et al. [Recent advances in nanomaterial-driven strategies for diagnosis and therapy of vascular anomalies](https://link.springer.com/article/10.1186/s12951-024-02370-2), Review , Journal of Nanobiotechnology. 
+3. Yiming Geng, Miao Yu, Haiwei Wu et al. [3D-printed personalized digital guide plate for greater palatine block in trigeminal neuralgia](https://www.sciencedirect.com/science/article/pii/S0266435624000160), British Journal of Oral & Maxillofacial Surgery.
+4. Yiming Geng*, Cancan Meng*, Hanzhi Zhang* et al. [A novel therapeutic approach to hemangiomas: Combining photothermal therapy and ferroptosis in a microneedle delivery system](https://www.sciencedirect.com/science/article/pii/S2590006425003072)，Materials Today Bio.
 
 ## Portfolio
 
