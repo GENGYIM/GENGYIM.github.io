@@ -1,9 +1,7 @@
 ---
-# front matter 中的 title 仅用于 portfolio 列表页展示，无正文跳转作用，可保留
-title: "Portfolio item number 2"
-# excerpt 中的图片可选用 Markdown 原生语法（更贴合 md 模式），也可保留简化 HTML
-excerpt: "Short description of portfolio item number 2\n![项目缩略图](/images/500x300.png \"Portfolio Item 2\")"
-collection: portfolio
+# title: "数据读取"
+# excerpt: "Short description of portfolio item number 2\n![项目缩略图](/images/500x300.png \"Portfolio Item 2\")"
+# collection: portfolio
 ---
 
 # 数据读取
