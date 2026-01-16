@@ -1,6 +1,6 @@
 ---
 # title: "数据读取"
-# excerpt: "Short description of portfolio item number 2\n![项目缩略图](/images/500x300.png \"Portfolio Item 2\")"
+# excerpt: ""
 # collection: portfolio
 ---
 
