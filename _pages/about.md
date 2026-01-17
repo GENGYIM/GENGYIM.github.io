@@ -37,26 +37,12 @@ The construction of various nanodrug delivery systems and their applications in 
 通过 UMAP 降维可视化展示细胞聚类结果，清晰呈现不同细胞亚群的分布特征。
 
 2. 免疫细胞亚群分选
-(/images/002.png)
-免疫细胞亚群分选
+![免疫细胞亚群分选结果图](/images/ 002.png){: style="width: 80%; max-width: 300px;"}
+基于细胞表面标志物完成免疫细胞亚群的分选与富集。
 
 3. NR组和RE组免疫细胞差异
-![项目详情图](/images/003.png){: style="width: 80%; max-width: 300px}
-NR组和RE组免疫细胞差异
-UMAP 细胞聚类分析
-![UMAP 细胞聚类结果图](/images/ 屏幕截图 2026-01-17 100352.png){: style="width: 80%; max-width: 300px;"}
-
-免疫细胞亚群分选
-
-
-{: style="width: 80%; max-width: 300px;"}
-基于细胞表面标志物完成免疫细胞亚群的分选与富集，为后续分析提供高纯度细胞样本。
-免疫细胞比例构成分析
-
-
-{: style="width: 80%; max-width: 300px;"}
-展示样本中各类免疫细胞的相对比例构成，解析免疫细胞的基础分布特征。
-NR 组与 RE 组免疫细胞差异分析
+![NR组和RE组免疫细胞差异](/images/ 003.png){: style="width: 80%; max-width: 300px}
+各样本中各类免疫细胞的相对比例构成
 
 
 {: style="width: 80%; max-width: 300px;"}
