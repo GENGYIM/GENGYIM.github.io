@@ -33,7 +33,7 @@ The construction of various nanodrug delivery systems and their applications in 
 
 ### 数据预处理
 1. UMAP细胞聚类分析
-![UMAP 细胞聚类结果图](/images/ 屏幕截图 2026-01-17 100352.png){: style="width: 80%; max-width: 300px;"}
+![UMAP 细胞聚类结果图](/images/屏幕截图 2026-01-17 100352.png){: style="width: 80%; max-width: 300px;"}
 通过 UMAP 降维可视化展示细胞聚类结果，清晰呈现不同细胞亚群的分布特征。
 
 2. 免疫细胞亚群分选
