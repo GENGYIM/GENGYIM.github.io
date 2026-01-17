@@ -43,7 +43,11 @@ The construction of various nanodrug delivery systems and their applications in 
 基于细胞表面标志物完成免疫细胞亚群的分选与富集。
 3. NR组和RE组免疫细胞差异
 
-![NR组和RE组免疫细胞差异](/images/03.png){: style="width: 80%; max-width: 600px;"}
+![非响应组（NR）组和响应组（RE）组免疫细胞差异](/images/03.png){: style="width: 80%; max-width: 600px;"}
 
 各样本中各类免疫细胞的相对比例构成
-4. 
+4. 不同免疫细胞在 RE/NR 状态下的分布差异
+
+![免疫细胞亚群分选结果图](/images/04.png){: style="width: 80%; max-width: 600px;"}
+NR和RE应组B细胞比例存在差异
+### 统计分析
