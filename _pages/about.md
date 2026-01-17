@@ -26,4 +26,4 @@ The construction of various nanodrug delivery systems and their applications in 
 4. Yiming Geng*, Cancan Meng*, Hanzhi Zhang* et al. [A novel therapeutic approach to hemangiomas: Combining photothermal therapy and ferroptosis in a microneedle delivery system](https://www.sciencedirect.com/science/article/pii/S2590006425003072)，Materials Today Bio.
 
 ## Portfolio
-
+![项目详情图](/images/屏幕截图 2026-01-17 100352.png "AI 心电图分析项目演示图")
