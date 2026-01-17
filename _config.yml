@@ -26,7 +26,7 @@ author:
   avatar           : "001.png"
   name             : "Geng Yiming"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A good beginning makes a good ending"
   location         : "Jinan Shandong"
   employer         : "Peking University"
   uri              : # URL
@@ -38,8 +38,6 @@ author:
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 
 
