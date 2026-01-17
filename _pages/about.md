@@ -37,7 +37,6 @@ The construction of various nanodrug delivery systems and their applications in 
 
 通过 UMAP 降维可视化展示细胞聚类结果，清晰呈现不同细胞亚群的分布特征。
 
----
 
 2. 免疫细胞亚群分选
 
@@ -45,10 +44,11 @@ The construction of various nanodrug delivery systems and their applications in 
 
 基于细胞表面标志物完成免疫细胞亚群的分选与富集。
 
----
 
 3. NR组和RE组免疫细胞差异
 
 ![NR组和RE组免疫细胞差异](/images/03.png){: style="width: 80%; max-width: 600px;"}
 
 各样本中各类免疫细胞的相对比例构成
+
+4. 
