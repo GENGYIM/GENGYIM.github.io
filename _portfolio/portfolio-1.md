@@ -5,6 +5,6 @@
 # 数据读取
 1. [单细胞数据](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE232240)
 2. [转录组数据TCGA-HNSCC](https://portal.gdc.cancer.gov/)
-# 数据读取
-1. [单细胞数据](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE232240)
-2. [转录组数据TCGA-HNSCC](https://portal.gdc.cancer.gov/)
+
+# 数据预处理
+![项目详情图片](/images/500x300.png "Portfolio Item 2 详情图")
