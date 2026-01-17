@@ -75,3 +75,49 @@ NR（无应答）与 RE（应答） 两组样本间的基因差异表达情况
 ![KEGG 通路富集分析](/images/13.png){: style="width: 80%; max-width: 300px;"}
 
 差异基因主要富集在以细胞因子 - 细胞因子受体互作为核心的免疫调控通路，同时涉及造血、抗原呈递、炎症信号传导等过程
+
+### 预测模型建立
+使用Lasso回归模型
+
+1. LASSO 回归的偏似然偏差诊断图
+
+![ LASSO 回归的偏似然偏差诊断图结果图](/images/07.png){: style="width: 80%; max-width: 300px;"}
+
+2. LASSO 回归的系数轨迹图
+
+![LASSO 回归的系数轨迹图结果图](/images/08.png){: style="width: 80%; max-width: 300px;"}
+
+### 构建风险模型，预测模型评估
+
+选择逐步回归cox模型
+
+RiskScore=-0.34549*BLK+-0.07645*2F2+-1.08219*L26+0.08742*SPESP1
+
+1. 时间依赖的受试者工作特征曲线
+
+![ 时间依赖的受试者工作特征曲线结果图](/images/09.png){: style="width: 80%; max-width: 300px;"}
+
+评估模型在不同时间点（1 年、2 年、4 年）对事件发生的预测能力
+
+2. Kaplan-Meier 生存曲线
+
+![LASSO 回归的系数轨迹图结果图](/images/10.png){: style="width: 80%; max-width: 300px;"}
+
+Kaplan-Meier 生存曲线，用于比较 TCGA-HNSCC（头颈部鳞状细胞癌）队列中，高风险评分（High RiskScore）与低风险评分（Low RiskScore）两组患者的生存预后差异
+
+### 多免疫队列验证
+选择逐步回归cox模型
+
+RiskScore=-0.34549*BLK+-0.07645*2F2+-1.08219*L26+0.08742*SPESP1
+
+1. 时间依赖的受试者工作特征曲线
+
+![ 时间依赖的受试者工作特征曲线结果图](/images/09.png){: style="width: 80%; max-width: 300px;"}
+
+评估模型在不同时间点（1 年、2 年、4 年）对事件发生的预测能力
+
+2. Kaplan-Meier 生存曲线
+
+![LASSO 回归的系数轨迹图结果图](/images/10.png){: style="width: 80%; max-width: 300px;"}
+
+Kaplan-Meier 生存曲线，用于比较 TCGA-HNSCC（头颈部鳞状细胞癌）队列中，高风险评分（High RiskScore）与低风险评分（Low RiskScore）两组患者的生存预后差异
