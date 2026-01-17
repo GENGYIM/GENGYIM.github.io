@@ -36,7 +36,10 @@ The construction of various nanodrug delivery systems and their applications in 
 ![项目详情图](/images/屏幕截图 2026-01-17 100352.png){: style="width: 80%; max-width: 300px}
 UMAP聚类分析
 
-2.免疫细胞亚群分选
+2. 免疫细胞亚群分选
 ![项目详情图](/images/002.png){: style="width: 80%; max-width: 300px}
-3.NR组和RE组免疫细胞差异
-![项目详情图](/images/002.png){: style="width: 80%; max-width: 300px}
+免疫细胞亚群分选
+
+4. NR组和RE组免疫细胞差异
+![项目详情图](/images/003.png){: style="width: 80%; max-width: 300px}
+NR组和RE组免疫细胞差异
