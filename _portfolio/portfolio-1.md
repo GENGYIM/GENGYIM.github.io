@@ -7,4 +7,4 @@
 2. [转录组数据TCGA-HNSCC](https://portal.gdc.cancer.gov/)
 
 # 数据预处理
-![项目详情图片](/images/500x300.png "Portfolio Item 2 详情图")
+![屏幕截图 2026-01-17 100352.png](/images/500x300.png "Portfolio Item 2 详情图")
