@@ -31,23 +31,27 @@ The construction of various nanodrug delivery systems and their applications in 
 [转录组数据TCGA-HNSCC](https://portal.gdc.cancer.gov/)
 
 ### 数据预处理
-1. UMAP细胞聚类分析
+1.UMAP细胞聚类分析
 
 ![UMAP 细胞聚类结果图](/images/屏幕截图 2026-01-17 100352.png){: style="width: 80%; max-width: 600px;"}
 
 通过 UMAP 降维可视化展示细胞聚类结果，清晰呈现不同细胞亚群的分布特征。
-2. 免疫细胞亚群分选
+2.免疫细胞亚群分选
 
 ![免疫细胞亚群分选结果图](/images/02.png){: style="width: 80%; max-width: 600px;"}
 
 基于细胞表面标志物完成免疫细胞亚群的分选与富集。
-3. NR组和RE组免疫细胞差异
+
+3.NR组和RE组免疫细胞差异
 
 ![非响应组（NR）组和响应组（RE）组免疫细胞差异](/images/03.png){: style="width: 80%; max-width: 600px;"}
 
 各样本中各类免疫细胞的相对比例构成
-4. 不同免疫细胞在 RE/NR 状态下的分布差异
+
+4.不同免疫细胞在 RE/NR 状态下的分布差异
 
 ![免疫细胞亚群分选结果图](/images/04.png){: style="width: 80%; max-width: 600px;"}
+
 NR和RE应组B细胞比例存在差异
+
 ### 统计分析
