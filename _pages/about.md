@@ -33,44 +33,45 @@ The construction of various nanodrug delivery systems and their applications in 
 ### 数据预处理
 1.UMAP细胞聚类分析
 
-![UMAP 细胞聚类结果图](/images/屏幕截图 2026-01-17 100352.png){: style="width: 80%; max-width: 600px;"}
+![UMAP 细胞聚类结果图](/images/屏幕截图 2026-01-17 100352.png){: style="width: 80%; max-width: 300px;"}
 
 通过 UMAP 降维可视化展示细胞聚类结果，清晰呈现不同细胞亚群的分布特征
 
 2.免疫细胞亚群分选
 
-![免疫细胞亚群分选结果图](/images/02.png){: style="width: 80%; max-width: 600px;"}
+![免疫细胞亚群分选结果图](/images/02.png){: style="width: 80%; max-width: 300px;"}
 
 基于细胞表面标志物完成免疫细胞亚群的分选与富集
 
 3.NR组和RE组免疫细胞差异
 
-![非响应组（NR）组和响应组（RE）组免疫细胞差异](/images/03.png){: style="width: 80%; max-width: 600px;"}
+![非响应组（NR）组和响应组（RE）组免疫细胞差异](/images/03.png){: style="width: 80%; max-width: 300px;"}
 
 各样本中各类免疫细胞的相对比例构成
 
 4.不同免疫细胞在 RE/NR 状态下的分布差异
 
-![免疫细胞亚群分选结果图](/images/04.png){: style="width: 80%; max-width: 600px;"}
+![免疫细胞亚群分选结果图](/images/04.png){: style="width: 80%; max-width: 300px;"}
 
 NR和RE应组B细胞比例存在差异
 
 ### 统计分析
 综上述数据分析处理，发现响应组和非响应组B细胞比例发生变化，进一步统计不同组的B细胞之间差异基因表达。
+
 1.两组样本间的基因差异表达
 
-![两组样本间的基因差异表达结果图](/images/05.png){: style="width: 80%; max-width: 600px;"}
+![两组样本间的基因差异表达结果图](/images/05.png){: style="width: 80%; max-width: 300px;"}
 
 NR（无应答）与 RE（应答） 两组样本间的基因差异表达情况
 
 2.GO 功能富集分析
 
-![GO 功能富集分析](/images/006.png){: style="width: 80%; max-width: 600px;"}
+![GO 功能富集分析](/images/006.png){: style="width: 80%; max-width: 300px;"}
 
 差异基因主要集中在以抗体生成和 B 细胞免疫为核心的适应性免疫通路，提示 “NR/RE” 状态的差异可能与 B 细胞介导的体液免疫功能密切相关
 
 3.KEGG 通路富集分析
 
-![KEGG 通路富集分析](/images/13.png){: style="width: 80%; max-width: 600px;"}
+![KEGG 通路富集分析](/images/13.png){: style="width: 80%; max-width: 300px;"}
 
 差异基因主要富集在以细胞因子 - 细胞因子受体互作为核心的免疫调控通路，同时涉及造血、抗原呈递、炎症信号传导等过程
