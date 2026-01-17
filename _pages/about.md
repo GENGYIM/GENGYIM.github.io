@@ -35,13 +35,13 @@ The construction of various nanodrug delivery systems and their applications in 
 
 ![UMAP 细胞聚类结果图](/images/屏幕截图 2026-01-17 100352.png){: style="width: 80%; max-width: 600px;"}
 
-通过 UMAP 降维可视化展示细胞聚类结果，清晰呈现不同细胞亚群的分布特征。
+通过 UMAP 降维可视化展示细胞聚类结果，清晰呈现不同细胞亚群的分布特征
 
 2.免疫细胞亚群分选
 
 ![免疫细胞亚群分选结果图](/images/02.png){: style="width: 80%; max-width: 600px;"}
 
-基于细胞表面标志物完成免疫细胞亚群的分选与富集。
+基于细胞表面标志物完成免疫细胞亚群的分选与富集
 
 3.NR组和RE组免疫细胞差异
 
@@ -56,4 +56,21 @@ The construction of various nanodrug delivery systems and their applications in 
 NR和RE应组B细胞比例存在差异
 
 ### 统计分析
-1.
+综上述数据分析处理，发现响应组和非响应组B细胞比例发生变化，进一步统计不同组的B细胞之间差异基因表达。
+1.两组样本间的基因差异表达
+
+![两组样本间的基因差异表达结果图](/images/05.png){: style="width: 80%; max-width: 600px;"}
+
+NR（无应答）与 RE（应答） 两组样本间的基因差异表达情况
+
+2.GO 功能富集分析
+
+![GO 功能富集分析](/images/06.png){: style="width: 80%; max-width: 600px;"}
+
+差异基因主要集中在以抗体生成和 B 细胞免疫为核心的适应性免疫通路，提示 “NR/RE” 状态的差异可能与 B 细胞介导的体液免疫功能密切相关
+
+3.KEGG 通路富集分析
+
+![KEGG 通路富集分析](/images/13.png){: style="width: 80%; max-width: 600px;"}
+
+差异基因主要富集在以细胞因子 - 细胞因子受体互作为核心的免疫调控通路，同时涉及造血、抗原呈递、炎症信号传导等过程
