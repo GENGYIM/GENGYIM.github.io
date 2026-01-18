@@ -49,20 +49,20 @@ The construction of various nanodrug delivery systems and their applications in 
 
 各样本中各类免疫细胞的相对比例构成
 
-4.不同免疫细胞在 RE/NR 状态下的分布差异
+4.不同免疫细胞在NR/RE状态下的分布差异
 
 ![免疫细胞亚群分选结果图](/images/04.png){: style="width: 80%; max-width: 300px;"}
 
-NR和RE应组B细胞比例存在差异
+NR（无应答）和RE（应答）组B细胞比例存在差异
 
 ### 统计分析
 综上述数据分析处理，发现响应组和非响应组B细胞比例发生变化，进一步统计不同组的B细胞之间差异基因表达。
 
-1.两组样本间的基因差异表达
+1.NR与RE组样本间的基因差异表达
 
 ![两组样本间的基因差异表达结果图](/images/05.png){: style="width: 80%; max-width: 300px;"}
 
-NR（无应答）与 RE（应答） 两组样本间的基因差异表达情况
+NR（无应答）与 RE（应答）两组样本间的基因差异表达情况
 
 2.GO 功能富集分析
 
@@ -98,6 +98,7 @@ RiskScore=-0.34549*BLK+-0.07645*2F2+-1.08219*L26+0.08742*SPESP1
 ![ 时间依赖的受试者工作特征曲线结果图](/images/09.png){: style="width: 80%; max-width: 300px;"}
 
 评估模型在不同时间点（1 年、2 年、4 年）疾病复发情况
+
 2.Kaplan-Meier 生存曲线
 
 ![LASSO 回归的系数轨迹图结果图](/images/10.png){: style="width: 80%; max-width: 300px;"}
