@@ -79,11 +79,11 @@ NR（无应答）与 RE（应答） 两组样本间的基因差异表达情况
 ### 预测模型建立
 使用Lasso回归模型
 
-1. LASSO 回归的偏似然偏差诊断图
+1.LASSO 回归的偏似然偏差诊断图
 
 ![ LASSO 回归的偏似然偏差诊断图结果图](/images/07.png){: style="width: 80%; max-width: 300px;"}
 
-2. LASSO 回归的系数轨迹图
+2.LASSO 回归的系数轨迹图
 
 ![LASSO 回归的系数轨迹图结果图](/images/08.png){: style="width: 80%; max-width: 300px;"}
 
